@@ -14,6 +14,10 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 
 ## Trouble in Mineville
 
+### Lobby
+
+<img src="timv/lobby/screenshot.png" height="300px">
+
 ### Kazamuzo Temple
 
 <img src="timv/kazamuzo_temple/screenshot.png" height="300px">
