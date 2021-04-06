@@ -6,5 +6,14 @@ An archive of HiveMC world save files from April 2021, the month that the server
 
 The HiveMC main hub. Contains a central area connected to the various rooms corresponding to each game on the server.
 
+<table><tr><td>
 <img src="hub/screenshot.png" height="300px">
+</td><td>
 <img src="hub/rendered.png" height="300px">
+</td></tr></table>
+
+## Trouble in Mineville
+
+### Kazumuzo Temple
+
+<img src="timv/kazamuzo_temple/screenshot.png" height="300px">
