@@ -108,6 +108,14 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 
 ----
 
+### Funfair
+*Created by fowben, supermassimo and extremesnow*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/funfair)
+
+<img src="timv/funfair/screenshot.png" width="500px">
+
+----
+
 ### Hollywood Hotel
 *Created by cjeich (Team Nectar)*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/hollywood-hotel)
