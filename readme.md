@@ -198,3 +198,11 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/the-canal)
 
 <img src="timv/the-canal/screenshot.png" width="500px">
+
+----
+
+### The Shire
+*Created by Team Nectar*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/the-shire)
+
+<img src="timv/the-shire/screenshot.png" width="500px">
