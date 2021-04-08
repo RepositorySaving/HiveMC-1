@@ -9,6 +9,7 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 - [Arcade Shuffle](#arcade-shuffle)
 - [BedWars](#bedwars)
 - [Block Party](#block-party)
+- [Draw It](#draw-it)
 - [Hide and Seek](#hide-and-seek)
 - [Splegg](#splegg)
 - [Trouble in Mineville](#trouble-in-mineville)
@@ -53,6 +54,13 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/block-party)
 
 <img src="block-party/screenshot.png" width="500px">
+
+----
+
+## Draw It
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/draw-it)
+
+<img src="draw-it/screenshot.png" width="500px">
 
 ----
 
