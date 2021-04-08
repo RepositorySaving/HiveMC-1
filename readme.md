@@ -1,26 +1,41 @@
 # HiveMC Archive
 
-An archive of HiveMC world save files from April 2021, the month that the server shuts down.
+An archive of various HiveMC world save files from April 2021, shortly before the server shuts down.
+
+See the [releases tab](https://github.com/Nixinova/HiveMC/releases) for a list of all save file downloads.
 
 ## Hub
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/hub)
+
 The HiveMC main hub. Contains a central area connected to the various rooms corresponding to each game on the server.
 
 <table><tr><td>
-<img src="hub/screenshot.png" height="300px">
+<img src="hub/screenshot.png" width="500px">
 </td><td>
-<img src="hub/rendered.png" height="300px">
+<img src="hub/rendered.png" width="300px">
 </td></tr></table>
 
 ## Trouble in Mineville
 
 ### Lobby
-<img src="timv/lobby/screenshot.png" height="300px">
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/timv-lobby)
+
+<img src="timv/lobby/screenshot.png" width="500px">
 
 ### Kazamuzo Temple
-<img src="timv/kazamuzo_temple/screenshot.png" height="300px">
+*Created by Mouldy_Burrito (Team Vareide)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/kazamuzo-temple)
+
+<img src="timv/kazamuzo-temple/screenshot.png" width="500px">
 
 ### Metropolis
-<img src="timv/metropolis/screenshot.png" height="300px">
+*Created by Nistune, Kaval, and Sphere (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/metropolis)
+
+<img src="timv/metropolis/screenshot.png" width="500px">
 
 ### The Canal
-<img src="timv/the-canal/screenshot.png" height="300px">
+*Created by Gepsutin (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/the-canal)
+
+<img src="timv/the-canal/screenshot.png" width="500px">
