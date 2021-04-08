@@ -2,7 +2,7 @@
 
 An archive of various HiveMC world save files from April 2021, shortly before the server shuts down.
 
-See the [releases tab](https://github.com/Nixinova/HiveMC/releases) for a list of all save file downloads.
+See the [releases tab](https://github.com/Nixinova/HiveMC/releases/tags) for a list of all save file downloads.
 
 **Contents**
 - [Hub](#hub)
@@ -49,6 +49,12 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/metropolis)
 
 <img src="timv/metropolis/screenshot.png" width="500px">
+
+### Rooftops
+*Created by LordDeWitt, Liredon, LeonardDM and dirk_barend (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/rooftops)
+
+<img src="timv/rooftops/screenshot.png" width="500px">
 
 ### The Canal
 *Created by Gepsutin (Team Nectar)*<br>
