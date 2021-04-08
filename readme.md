@@ -2,7 +2,7 @@
 
 An archive of various HiveMC world save files from April 2021, shortly before the server shuts down.
 
-See the [releases tab](https://github.com/Nixinova/HiveMC/releases/tags) for a list of all save file downloads.
+See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of all save file downloads.
 
 ## Contents
 - [Hub](#hub)
@@ -88,6 +88,14 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/hollywood-hotel)
 
 <img src="timv/hollywood-hotel/screenshot.png" width="500px">
+
+----
+
+### Hermit Sands: Revamped
+*Created by Queenia (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/hermit-sands-revamped)
+
+<img src="timv/hermit-sands-revamped/screenshot.png" width="500px">
 
 ----
 
