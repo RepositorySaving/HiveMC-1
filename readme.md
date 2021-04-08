@@ -4,6 +4,10 @@ An archive of various HiveMC world save files from April 2021, shortly before th
 
 See the [releases tab](https://github.com/Nixinova/HiveMC/releases) for a list of all save file downloads.
 
+**Contents**
+- [Hub](#hub)
+- [Trouble in Mineville](#trouble-in-mineville)
+
 ## Hub
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/hub)
 
@@ -21,6 +25,12 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/timv-lobby)
 
 <img src="timv/lobby/screenshot.png" width="500px">
+
+### Hollywood Hotel
+*Created by cjeich (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/hollywood-hotel)
+
+<img src="timv/hollywood-hotel/screenshot.png" width="500px">
 
 ### Kazamuzo Temple
 *Created by Mouldy_Burrito (Team Vareide)*<br>
