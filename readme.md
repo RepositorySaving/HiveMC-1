@@ -7,6 +7,7 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 ## Contents
 - [Hub](#hub)
 - [Arcade Shuffle](#arcade-shuffle)
+- [BedWars](#bedwars)
 - [Block Party](#block-party)
 - [Hide and Seek](#hide-and-seek)
 - [Splegg](#splegg)
@@ -33,6 +34,18 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/arcade-shuffle-lobby)
 
 <img src="arcade-shuffle/lobby/screenshot.png" width="500px">
+
+----
+
+## BedWars
+
+----
+
+### Mario
+*Created by Fowben (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/mario)
+
+<img src="bedwars/mario/screenshot.png" width="500px">
 
 ----
 
