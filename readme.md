@@ -6,8 +6,9 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/releases/tags) for a l
 
 **Contents**
 - [Hub](#hub)
-- [Trouble in Mineville](#trouble-in-mineville)
+- [Hide and Seek](#hide-and-seek)
 - [Splegg](#splegg)
+- [Trouble in Mineville](#trouble-in-mineville)
 
 ## Hub
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/hub)
@@ -19,6 +20,21 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 </td><td>
 <img src="hub/rendered.png" width="300px">
 </td></tr></table>
+
+## Hide and Seek
+
+### Lobby
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/hide-and-seek-lobby)
+
+<img src="hide-and-seek/lobby/screenshot.png" width="500px">
+
+## Splegg
+
+### Splatter
+*Created by Team Nectar*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/splatter)
+
+<img src="splegg/splatter/screenshot.png" width="500px">
 
 ## Trouble in Mineville
 
@@ -62,11 +78,3 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/the-canal)
 
 <img src="timv/the-canal/screenshot.png" width="500px">
-
-## Splegg
-
-### Splatter
-*Created by Team Nectar*<br>
-[Download](https://github.com/Nixinova/HiveMC/releases/tag/splatter)
-
-<img src="splegg/splatter/screenshot.png" width="500px">
