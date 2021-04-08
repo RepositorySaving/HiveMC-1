@@ -75,6 +75,14 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 
 ----
 
+### Clockworld Island
+*Created by Cameron224 (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/clockworld-island)
+
+<img src="timv/clockworld-island/screenshot.png" width="500px">
+
+----
+
 ### Hollywood Hotel
 *Created by cjeich (Team Nectar)*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/hollywood-hotel)
