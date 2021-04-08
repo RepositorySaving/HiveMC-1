@@ -91,6 +91,14 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 
 ----
 
+### Hermit Sands: Revisited
+*Created by Team Nectar*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/hermit-sands-revisited)
+
+<img src="timv/hermit-sands-revisited/screenshot.png" width="500px">
+
+----
+
 ### Kazamuzo Temple
 *Created by Mouldy_Burrito (Team Vareide)*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/kazamuzo-temple)
