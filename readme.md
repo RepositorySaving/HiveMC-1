@@ -26,6 +26,12 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 
 <img src="timv/lobby/screenshot.png" width="500px">
 
+### Armadillo Revamped
+*Created by JP005 and xBayani*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/armadillo-revamped)
+
+<img src="timv/armadillo-revamped/screenshot.png" width="500px">
+
 ### Hollywood Hotel
 *Created by cjeich (Team Nectar)*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/hollywood-hotel)
