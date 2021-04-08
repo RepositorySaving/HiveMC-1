@@ -64,6 +64,17 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 
 ----
 
+## Survival Games
+
+----
+
+### Winter Wonderland
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/winter-wonderland)
+
+<img src="survival-games/winter-wonderland/screenshot.png" width="500px">
+
+----
+
 ## Trouble in Mineville
 
 ### Lobby
