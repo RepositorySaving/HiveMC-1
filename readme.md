@@ -7,6 +7,7 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 ## Contents
 - [Hub](#hub)
 - [Arcade Shuffle](#arcade-shuffle)
+- [Block Party](#block-party)
 - [Hide and Seek](#hide-and-seek)
 - [Splegg](#splegg)
 - [Trouble in Mineville](#trouble-in-mineville)
@@ -28,8 +29,6 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 
 ## Arcade Shuffle
 
-----
-
 ### Lobby
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/arcade-shuffle-lobby)
 
@@ -37,9 +36,14 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 
 ----
 
-## Hide and Seek
+## Block Party
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/block-party)
+
+<img src="block-party/screenshot.png" width="500px">
 
 ----
+
+## Hide and Seek
 
 ### Lobby
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/hide-and-seek-lobby)
@@ -61,8 +65,6 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 ----
 
 ## Trouble in Mineville
-
-----
 
 ### Lobby
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/timv-lobby)
