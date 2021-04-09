@@ -16,12 +16,12 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 </td></tr></table>
 
 ## Arcade Shuffle
-**[Browse](arcade-shuffle)**
+**[Browse](arcade-shuffle#readme)**
 
 <img src="arcade-shuffle/lobby/screenshot.png" width="500px">
 
 ## BedWars
-**[Browse](bedwars)**
+**[Browse](bedwars#readme)**
 
 <img src="bedwars/mario/screenshot.png" width="500px">
 
@@ -36,21 +36,26 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 <img src="draw-it/screenshot.png" width="500px">
 
 ## Hide and Seek
-**[Browse](hide-and-seek)**
+**[Browse](hide-and-seek#readme)**
 
 <img src="hide-and-seek/lobby/screenshot.png" width="500px">
 
+## SkyWars
+**[Browse](skywars#readme)**
+
+<img src="skywars/spire/screenshot.png" width="500px">
+
 ## Splegg
-**[Browse](splegg)**
+**[Browse](splegg#readme)**
 
 <img src="splegg/splatter/screenshot.png" width="500px">
 
 ## Survival Games
-**[Browse](survival-games)**
+**[Browse](survival-games#readme)**
 
 <img src="survival-games/winter-wonderland/screenshot.png" width="500px">
 
 ## Trouble in Mineville
-**[Browse](timv)**
+**[Browse](timv#readme)**
 
 <img src="timv/lobby/screenshot.png" width="500px">
