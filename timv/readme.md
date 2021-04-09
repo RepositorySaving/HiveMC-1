@@ -85,6 +85,14 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 ----
 
+## Mineville: Classic
+*Created by Team Vareide*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/mineville-classic)
+
+<img src="mineville-classic/screenshot.png" width="500px">
+
+----
+
 ## Rooftops
 *Created by LordDeWitt, Liredon, LeonardDM and dirk_barend (Team Nectar)*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/rooftops)
