@@ -15,6 +15,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="armadillo-revamped/screenshot.png" width="500px">
 
+## Asian Sky
+*Created by Sneeze7 (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/asian-sky)
+
+<img src="asian-sky/screenshot.png" width="500px">
+
 ## Chroma
 *Created by kwirky and Jaap*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/chroma)
