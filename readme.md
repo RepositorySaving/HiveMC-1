@@ -30,10 +30,20 @@ The HiveMC main hub. Contains a central area connected to the various rooms corr
 
 <img src="block-party/screenshot.png" width="500px">
 
+## Death Run
+**[Browse](death-run#readme)**
+
+<img src="death-run/to-bee-or-not-to-bee/screenshot.png" width="500px">
+
 ## Draw It
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/draw-it)
 
 <img src="draw-it/screenshot.png" width="500px">
+
+## Gravity
+**[Browse](gravity#readme)**
+
+<img src="gravity/arachnophobia/screenshot.png" width="500px">
 
 ## Hide and Seek
 **[Browse](hide-and-seek#readme)**

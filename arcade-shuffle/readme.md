@@ -16,3 +16,11 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/atlantis)
 
 <img src="atlantis/screenshot.png" width="500px">
+
+## Slaparoo
+
+### The Lie
+*Created by Pankyy and LeFluffeh*
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/the-lie)
+
+<img src="the-lie/screenshot.png" width="500px">
