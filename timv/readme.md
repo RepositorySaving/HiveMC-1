@@ -39,6 +39,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="clockworld-island/screenshot.png" width="500px">
 
+## Cosmic Foray
+*Created by Supermassimo (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/cosmic-foray)
+
+<img src="cosmic-foray/screenshot.png" width="500px">
+
 ## Forge
 *Created by Dueces (Team Nectar)*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/forge)
