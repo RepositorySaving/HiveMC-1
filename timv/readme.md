@@ -45,6 +45,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="cosmic-foray/screenshot.png" width="500px">
 
+## Fallen Bridges
+*Created by Queenia, Thunderstryker, and Effervescent06 (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/fallen-bridges)
+
+<img src="fallen-bridges/screenshot.png" width="500px">
+
 ## Forge
 *Created by Dueces (Team Nectar)*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/forge)
