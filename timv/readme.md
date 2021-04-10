@@ -99,6 +99,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="mineville-classic/screenshot.png" width="500px">
 
+## Mineville: Revamped
+*Created by Effervescent06 (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/mineville-revamped)
+
+<img src="mineville-revamped/screenshot.png" width="500px">
+
 ## Rooftops
 *Created by LordDeWitt, Liredon, LeonardDM and dirk_barend (Team Nectar)*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/rooftops)
