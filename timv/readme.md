@@ -105,6 +105,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="rooftops/screenshot.png" width="500px">
 
+## Sky Ship
+*Created by Team Nectar*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/sky-ship)
+
+<img src="sky-ship/screenshot.png" width="500px">
+
 ## Spring Falls
 *Created by Team Teweran*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/spring-falls)
