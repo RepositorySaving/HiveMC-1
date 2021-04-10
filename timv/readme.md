@@ -57,6 +57,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="forge/screenshot.png" width="500px">
 
+## Forsaken
+*Created by CrypticMech (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/forsaken)
+
+<img src="forsaken/screenshot.png" width="500px">
+
 ## Funfair
 *Created by fowben, supermassimo and extremesnow*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/funfair)
