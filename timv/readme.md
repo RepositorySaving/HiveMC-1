@@ -57,6 +57,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="fallen-bridges/screenshot.png" width="500px">
 
+## Frozen Cargo
+*Created by Team Vareide*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/frozen-cargo)
+
+<img src="frozen-cargo/screenshot.png" width="500px">
+
 ## Forge
 *Created by Dueces (Team Nectar)*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/forge)
