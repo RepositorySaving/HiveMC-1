@@ -21,6 +21,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="asian-sky/screenshot.png" width="500px">
 
+## Cabin in the Woods
+*Created by CrypticMech (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/cabin-in-the-woods)
+
+<img src="cabin-in-the-woods/screenshot.png" width="500px">
+
 ## Cathedral
 *Created by Erik and Daniel*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/cathedral)
