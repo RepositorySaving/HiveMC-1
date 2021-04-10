@@ -16,3 +16,11 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/spire)
 
 <img src="spire/screenshot.png" width="500px">
+
+## Teams
+
+### Oriental
+*Created by Periks (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/oriental)
+
+<img src="oriental/screenshot.png" width="500px">
