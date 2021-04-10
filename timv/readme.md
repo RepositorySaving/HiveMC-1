@@ -21,6 +21,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="asian-sky/screenshot.png" width="500px">
 
+## Cathedral
+*Created by Erik and Daniel*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/cathedral)
+
+<img src="cathedral/screenshot.png" width="500px">
+
 ## Chroma
 *Created by kwirky and Jaap*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/chroma)
