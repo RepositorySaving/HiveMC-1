@@ -11,6 +11,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 ## Solo
 
+### Bones
+*Created by _Atomixx (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/bones)
+
+<img src="bones/screenshot.png" width="500px">
+
 ### Spire
 *Created by Sphere and Effervescent06 (Team Nectar)*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/spire)
