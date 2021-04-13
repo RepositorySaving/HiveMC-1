@@ -129,6 +129,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="mineville-revamped/screenshot.png" width="500px">
 
+## Puerto Tereza
+*Created by Flycofx and Casiopeia111*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/puerto-tereza)
+
+<img src="puerto-tereza/screenshot.png" width="500px">
+
 ## Rooftops
 *Created by LordDeWitt, Liredon, LeonardDM and dirk_barend (Team Nectar)*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/rooftops)
