@@ -21,6 +21,12 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 
 <img src="asian-sky/screenshot.png" width="500px">
 
+## Azure Island
+*Created by Cameron224 and CrypticMech (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/azure-island)
+
+<img src="azure-island/screenshot.png" width="500px">
+
 ## Cabin in the Woods
 *Created by CrypticMech (Team Nectar)*<br>
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/cabin-in-the-woods)
