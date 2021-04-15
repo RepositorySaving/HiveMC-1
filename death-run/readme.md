@@ -14,3 +14,9 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/to-bee-or-not-to-bee)
 
 <img src="to-bee-or-not-to-bee/screenshot.png" width="500px">
+
+## Toxic Factory
+*Created by Dav105 (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/toxic-factory)
+
+<img src="toxic-factory/screenshot.png" width="500px">
