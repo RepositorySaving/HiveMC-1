@@ -4,6 +4,8 @@ An archive of various HiveMC world save files from April 2021, shortly before th
 
 See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of all save file downloads.
 
+All downloads are for Minecraft 1.16 and may break in other versions.
+
 ## Hub
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/hub)
 
