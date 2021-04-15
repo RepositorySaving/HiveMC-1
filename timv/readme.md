@@ -164,3 +164,9 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/the-shire)
 
 <img src="the-shire/screenshot.png" width="500px">
+
+## Welcome to Woodbury
+*Created by JP005 and xBayani*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/welcome-to-woodbury)
+
+<img src="welcome-to-woodbury/screenshot.png" width="500px">
