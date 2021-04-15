@@ -17,3 +17,9 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/red-rock)
 
 <img src="red-rock/screenshot.png" width="500px">
+
+### Tribal
+*Created by Periks (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/tribal)
+
+<img src="tribal/screenshot.png" width="500px">
