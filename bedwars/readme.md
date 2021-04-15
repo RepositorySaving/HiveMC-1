@@ -23,3 +23,11 @@ See the [releases tab](https://github.com/Nixinova/HiveMC/tags) for a list of al
 [Download](https://github.com/Nixinova/HiveMC/releases/tag/tribal)
 
 <img src="tribal/screenshot.png" width="500px">
+
+## Teams
+
+### Ruins
+*Created by Timmetatsch (Team Nectar)*<br>
+[Download](https://github.com/Nixinova/HiveMC/releases/tag/ruins)
+
+<img src="ruins/screenshot.png" width="500px">
